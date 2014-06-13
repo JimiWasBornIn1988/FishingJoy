@@ -19,3 +19,9 @@
 *.exe
 *.out
 *.app
+
+proj.*/*
+!proj.win32/FishingJoy.vcxproj
+!proj.win32/FishingJoy.vcxproj.filters
+proj.win32/Debug.win32/*
+
